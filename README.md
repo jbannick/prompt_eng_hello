@@ -1,11 +1,11 @@
 # Code Assist Prompt Engineering (<strong>CAPE</strong>) - Hello Worlds!
 ## Objective
-A collection of Prompt Sets that generate Hello World code in different coding languages.
+A collection of Prompt Sets that generate Hello World! code in different coding languages.
 
-Particularly some of the TIOBE top in-demand languages.
+Particularly some of the <a href="https://www.tiobe.com/tiobe-index/">TIOBE</a> top in-demand languages.
 
 * Katas for languages I know
-* Entry points for languages I do not know
+* Gateway projects for languages I do not know
 
 ## About
 
@@ -20,9 +20,9 @@ See: <a href="https://johnbannick.com/pg_prompt/jb_prompt_proj_01.html">https://
 Have:
 
 * Read the book
-* Set up the CAPE toolset specified by the book.
+* Set up the CAPE toolset specified by the book
 * Begun doing their programming examples
 
-After I gain an initial familiarity with CAPE, I can design useful introductory prompt sets.
+After I gain an initial familiarity with CAPE, I can apply that knowledge to practical tasks.
 
 
