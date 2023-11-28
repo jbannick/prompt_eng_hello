@@ -2,6 +2,11 @@
 ## Objective
 A collection of Prompt Sets that generate Hello World code in different coding languages.
 
+Particularly some of the TIOBE top in-demand languages.
+
+* Katas for languages I know
+* Entry points for languages I do not know
+
 ## About
 
 This project is based on <a href="https://www.manning.com/books/learn-ai-assisted-python-programming">Learn AI-Assisted Python Programming</a>.
