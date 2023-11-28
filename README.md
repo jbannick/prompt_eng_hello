@@ -1,6 +1,6 @@
 # Code Assist Prompt Engineering - Hello Worlds!
 ## Objective
-Design and implement the simplest introductory Code Assist Prompt Engineering (CAPE) example.
+A collection of Prompt Sets that generate Hello World code in different coding languages.
 
 ## About
 
