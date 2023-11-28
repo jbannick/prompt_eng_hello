@@ -9,7 +9,7 @@ Particularly some of the <a href="https://www.tiobe.com/tiobe-index/">TIOBE</a> 
 
 ## About
 
-This project is based on <a href="https://www.manning.com/books/learn-ai-assisted-python-programming">Learn AI-Assisted Python Programming</a>.  
+This project is based on <a href="https://www.manning.com/books/learn-ai-assisted-python-programming">Learn AI-Assisted Python Programming With GitHub Copilot and ChatGPT</a>.  
 Conveniently, I've been Pythoning at MIT Lincoln Labs for 8 years.  
 A great place to start.
 
