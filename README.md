@@ -9,8 +9,8 @@ Particularly some of the TIOBE top in-demand languages.
 
 ## About
 
-This project is based on <a href="https://www.manning.com/books/learn-ai-assisted-python-programming">Learn AI-Assisted Python Programming</a>.
-Conveniently, I've been Pythoning for 8 years.
+This project is based on <a href="https://www.manning.com/books/learn-ai-assisted-python-programming">Learn AI-Assisted Python Programming</a>.  
+Conveniently, I've been Pythoning at MIT Lincoln Labs for 8 years.
 
 See: <a href="https://johnbannick.com/pg_prompt/jb_prompt_proj_01.html">https://johnbannick.com</a>.
 
