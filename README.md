@@ -13,7 +13,7 @@ This project is based on <a href="https://www.manning.com/books/learn-ai-assiste
 Conveniently, I've been Pythoning at <a href="https://www.ll.mit.edu/">MIT Lincoln Lab</a> for 8 years.  
 A great place to start.
 
-See: <a href="https://johnbannick.com/pg_prompt/jb_prompt_proj_01.html">https://johnbannick.com</a>.
+To see the step-by-step instructions for implementing this project, see: <a href="https://johnbannick.com/pg_prompt/jb_prompt_proj_01.html">https://johnbannick.com</a>.
 
 ## Status
 
